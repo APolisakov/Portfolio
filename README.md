@@ -4,8 +4,8 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Проект Анализ оттоков банковских клиентов.](https://github.com/shnuridze/Portfolio/blob/main/project_2/project_2.ipynb) | Анализ причин оттока банковских клиентов, сегментация клиентов и создание рекомендаций по удержанию клиентов из данных сегментов. | python, pandas, numpy, scipy.stats, seaborn, matplotlib |
-| 2.   | [Проект Анализ продаж игр.](https://github.com/shnuridze/Portfolio/blob/main/project_1/Project_1.ipynb) | Анализ открытытых данных о рынке компьютерных игр, влияние на продажи игр внешних факторов. | python, pandas, numpy, scipy.stats, seaborn, matplotlib      |
-| 3.   | [Проект Анализ сервиса для чтения книг по подписке.](https://github.com/shnuridze/Portfolio/blob/main/project_3/sql_project.ipynb) | Анализ базы данных сервиса для чтения книг по подписке и формулирование целосного предложения для нового продукта.             | python, pandas, sql, sqlalchemy  |
+| 1.   | [Проект анализ оттоков банковских клиентов.](https://github.com/shnuridze/Portfolio/blob/main/project_2/project_2.ipynb) | Анализ причин оттока банковских клиентов, сегментация клиентов и создание рекомендаций по удержанию клиентов из данных сегментов. | python, pandas, numpy, scipy.stats, seaborn, matplotlib |
+| 2.   | [Проект анализ продаж игр.](https://github.com/shnuridze/Portfolio/blob/main/project_1/Project_1.ipynb) | Анализ открытытых данных о рынке компьютерных игр, влияние на продажи игр внешних факторов. | python, pandas, numpy, scipy.stats, seaborn, matplotlib      |
+| 3.   | [Проект анализ сервиса для чтения книг по подписке.](https://github.com/shnuridze/Portfolio/blob/main/project_3/sql_project.ipynb) | Анализ базы данных сервиса для чтения книг по подписке и формулирование целосного предложения для нового продукта.             | python, pandas, sql, sqlalchemy  |
 
 
